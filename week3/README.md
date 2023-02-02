@@ -1,6 +1,6 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Dice-Roll Rust Project
+This is a simple rust project, which could roll the dice randomly.
 
-## References
+## Function Display
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+
