@@ -1,0 +1,11 @@
+/workspaces/IDS721-Rust_Mini_Project/week4/random-news/target/debug/deps/string_cache-bfd594ef11cd4255.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/atom.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/dynamic_set.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/static_sets.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/trivial_impls.rs
+
+/workspaces/IDS721-Rust_Mini_Project/week4/random-news/target/debug/deps/libstring_cache-bfd594ef11cd4255.rlib: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/atom.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/dynamic_set.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/static_sets.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/trivial_impls.rs
+
+/workspaces/IDS721-Rust_Mini_Project/week4/random-news/target/debug/deps/string_cache-bfd594ef11cd4255.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/atom.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/dynamic_set.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/static_sets.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/trivial_impls.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/atom.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/dynamic_set.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/static_sets.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/string_cache-0.8.4/src/trivial_impls.rs:

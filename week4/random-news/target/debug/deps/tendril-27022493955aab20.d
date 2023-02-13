@@ -1,0 +1,13 @@
+/workspaces/IDS721-Rust_Mini_Project/week4/random-news/target/debug/deps/tendril-27022493955aab20.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/fmt.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/stream.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/buf32.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/tendril.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/utf8_decode.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/util.rs
+
+/workspaces/IDS721-Rust_Mini_Project/week4/random-news/target/debug/deps/libtendril-27022493955aab20.rlib: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/fmt.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/stream.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/buf32.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/tendril.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/utf8_decode.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/util.rs
+
+/workspaces/IDS721-Rust_Mini_Project/week4/random-news/target/debug/deps/tendril-27022493955aab20.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/fmt.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/stream.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/buf32.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/tendril.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/utf8_decode.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/util.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/fmt.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/stream.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/buf32.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/tendril.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/utf8_decode.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.3/src/util.rs:
