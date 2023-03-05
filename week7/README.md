@@ -1,6 +1,6 @@
-# Simple Calculator in Rust
+# Simple Translator in Rust
 
-This is a simple command-line calculator program written in Rust. It supports addition, subtraction, multiplication, and division of two numbers.
+This is a simple translator written in Rust. It supports Chinese and English translation.
 
 ## Installation
 
@@ -10,21 +10,15 @@ Once Rust is installed, you can download the source code for the calculator prog
 
 ## Usage
 
-To use the calculator program, follow these steps:
+To use the translator program, follow these steps:
 
-1. Open a terminal or command prompt and navigate to the directory where you've saved the calculator program files.
-
-2. Compile the program by running the following command:
-```
-rustc main.rs
-```
-Alternatively, you can use cargo to build and run the program automatically:
+1. You can use cargo to build and run the program automatically:
 ```
 cargo run
 ```
-3. Follow the prompts to enter the operation you want to perform, the first number, and the second number.
+2. Follow the prompts to enter the mode you want to use, mode1 is for English to Chinese, mode2 is for Chinese to English.
 
-4. The program will display the result of the operation.
+3. The program will display the result of the operation.
 
-5. To exit the program, choose option 5 from the menu.
+4. To exit the program, use ```ctr + c``` or type ```n``` after translate.
 
