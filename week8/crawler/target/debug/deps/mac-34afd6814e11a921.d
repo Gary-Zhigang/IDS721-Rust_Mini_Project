@@ -1,0 +1,14 @@
+/workspaces/IDS721-Rust_Mini_Project/week8/crawler/target/debug/deps/mac-34afd6814e11a921.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/workspaces/IDS721-Rust_Mini_Project/week8/crawler/target/debug/deps/libmac-34afd6814e11a921.rlib: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/workspaces/IDS721-Rust_Mini_Project/week8/crawler/target/debug/deps/mac-34afd6814e11a921.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/test.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/mem.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/format.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/syntax_ext.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/matches.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/inspect.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/mac-0.1.1/src/cfg.rs:
