@@ -1,0 +1,1 @@
+/workspaces/IDS721-Rust_Mini_Project/week11/product_satisfaction_ranking/target/debug/product_satisfaction_ranking: /workspaces/IDS721-Rust_Mini_Project/week11/product_satisfaction_ranking/src/main.rs
